@@ -18,6 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
+    // alteraçao teste
     public IActionResult Privacy()
     {
         return View();
